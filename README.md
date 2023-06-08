@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MonitaMHL
 - 👀 I’m interested in books, movies, games and pussles.
-- 🌱 I’m currently learning backenddevelopment.
+- 🌱 I’m currently learning backend development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
